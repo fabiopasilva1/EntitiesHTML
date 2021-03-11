@@ -1,4 +1,4 @@
-# HTML entity list
+# HTML entity list by name and decimal number
 
 | Description                         | S | Name      | Number   |
 |-------------------------------------|---|-----------|----------|
