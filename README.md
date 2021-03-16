@@ -1,7 +1,7 @@
 # HTML entity list by name and decimal number
 
 | Description                         | Symbol | Name      | Number   |
-|-------------------------------------|--------|-----------|----------|
+|------------------------------------:|:------:|:---------:|:---------|
 | Space                               |        |           | `&#32;`    |
 | Exclamation mark                    | !      |           | `&#33;`    |
 | Quotation mark                      | "      |           | `&#34;`    |
