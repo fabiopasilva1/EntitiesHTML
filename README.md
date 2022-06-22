@@ -1615,7 +1615,7 @@ Not intended to be displayed. None of them have named entity.
 | RIGHTWARDS OPEN-HEADED ARROW                        | &#8702; |              | `&#8702;`      | `&#x21FE;` |
 | LEFT RIGHT OPEN-HEADED ARROW                        | &#8703; |              | `&#8703;`      | `&#x21FF;` |
 
-## Arrows
+## Math symbols
 | Description                                                    | Symbol  | Named entity | Decimal entity | Hex entity |
 |---------------------------------------------------------------:|:-------:|:------------:|:--------------:|:-----------|
 | FOR ALL                                                        | &#8704; | `&forall;`   | `&#8704;`      | `&#x2200;` |
